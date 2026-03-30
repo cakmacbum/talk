@@ -1,0 +1,5 @@
+{
+  "name": "Talking AI Tutor",
+  "description": "An AI-powered English language tutor that roleplays specific scenarios and provides grammar feedback.",
+  "requestFramePermissions": ["microphone"]
+}
